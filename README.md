@@ -1,6 +1,6 @@
 # PostureDetector
 
-A program that detects a persons sitting posture from a live camera as bad or good. In case of bad posture it alarms the person with a sound beep.
+An algorithm that detects a person's sitting posture from a live camera as bad or good. In case of bad posture it alarms the person with a beep sound.
 
 ## Preview
 ![](https://github.com/Ilc97/PostureDetector/blob/master/detector_example.gif)
